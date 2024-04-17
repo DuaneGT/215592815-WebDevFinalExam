@@ -1,20 +1,18 @@
 .flex-container{
-    display: flex;
+    display:flex;
 }
 header{
- font-size: 150%;
- color:aqua;
- margin: 120px;
-
+    font-size: 150%;
+    color:aqua;
+    margin:120px;
 }
 nav{
-    font-weight: 500;
-
+font-weight:500;
 }
 main{
-    color:aquamarine;
-
+color:aquamarine;
+font-size: 1em;
 }
 footer{
-    font-family: 'Courier New', Courier, monospace;
+font-family: 'Courier New', Courier, monospace;
 }
