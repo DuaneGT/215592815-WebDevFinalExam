@@ -1,0 +1,20 @@
+.flex-container{
+    display: flex;
+}
+header{
+ font-size: 150%;
+ color:aqua;
+ margin: 120px;
+
+}
+nav{
+    font-weight: 500;
+
+}
+main{
+    color:aquamarine;
+
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+}
